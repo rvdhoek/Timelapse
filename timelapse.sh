@@ -1,5 +1,5 @@
 # Setting up directories
-backuppath="/home/remko/Downloads"
+backuppath="/home/map/Downloads"
 time_stamp=$(date +%Y-%m-%d)
 device=1
 
